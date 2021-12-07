@@ -1,6 +1,6 @@
 # vue-youtube
 
-## Project setup
+## Project start
 ```
 npm install
 ```
