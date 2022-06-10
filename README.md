@@ -14,5 +14,3 @@ npm run serve
 ```
 npm run build
 ```
-
-## WORK IN PROGRESS
