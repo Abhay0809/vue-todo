@@ -1,6 +1,6 @@
 # VUE Todo App
 
-## Project start
+## Project instllation
 ```
 npm install
 ```
