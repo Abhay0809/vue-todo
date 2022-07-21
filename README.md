@@ -1,4 +1,4 @@
-# VUE Todo App
+# VUE ToDo App
 
 ## Project instllation
 ```
